@@ -1,0 +1,14 @@
+D:\studentmanage c#\managestudent\managestudent\obj\Debug\net8.0\managestudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\studentmanage c#\managestudent\managestudent\obj\Debug\net8.0\managestudent.AssemblyInfoInputs.cache
+D:\studentmanage c#\managestudent\managestudent\obj\Debug\net8.0\managestudent.AssemblyInfo.cs
+D:\studentmanage c#\managestudent\managestudent\obj\Debug\net8.0\managestudent.csproj.CoreCompileInputs.cache
+D:\studentmanage c#\managestudent\managestudent\bin\Debug\net8.0\managestudent.exe
+D:\studentmanage c#\managestudent\managestudent\bin\Debug\net8.0\managestudent.deps.json
+D:\studentmanage c#\managestudent\managestudent\bin\Debug\net8.0\managestudent.runtimeconfig.json
+D:\studentmanage c#\managestudent\managestudent\bin\Debug\net8.0\managestudent.dll
+D:\studentmanage c#\managestudent\managestudent\bin\Debug\net8.0\managestudent.pdb
+D:\studentmanage c#\managestudent\managestudent\obj\Debug\net8.0\managestudent.dll
+D:\studentmanage c#\managestudent\managestudent\obj\Debug\net8.0\refint\managestudent.dll
+D:\studentmanage c#\managestudent\managestudent\obj\Debug\net8.0\managestudent.pdb
+D:\studentmanage c#\managestudent\managestudent\obj\Debug\net8.0\managestudent.genruntimeconfig.cache
+D:\studentmanage c#\managestudent\managestudent\obj\Debug\net8.0\ref\managestudent.dll
